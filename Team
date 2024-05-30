@@ -1,0 +1,27 @@
+<div class="responsive-container-block outer-container">
+  <div class="responsive-container-block inner-container">
+    <p class="text-blk heading-text">Dream team</p>
+    <div class="card-container">
+      <div class="btn">
+        <div class="swiper-button-nexts">
+          <img class="arrow-right" src="URL_TO_RIGHT_ARROW">
+        </div>
+        <div class="swiper-button-prevs">
+          <img class="arrow-left" src="URL_TO_LEFT_ARROW">
+        </div>
+      </div>
+      <div class="swiper-container team-swiper">
+        <div class="swiper-wrapper">
+          <div class="swiper-slide">
+            <div class="card">
+              <img class="team-member-image" src="URL_TO_MEMBER_IMAGE">
+              <p class="text-blk name">Member Name</p>
+              <p class="text-blk position">Position</p>
+            </div>
+          </div>
+          <!-- Add more team member slides here -->
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
